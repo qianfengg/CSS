@@ -7,6 +7,8 @@
 
 > CSS为主的Demo
 *  [动态滑动登录框(在线预览)](https://qianfengg.github.io/CSS/logindemo/index)
+*  [登陆成功特效(在线预览)](https://qianfengg.github.io/CSS/loginsuccess/index)
 
 > 如何制作
 *  [动态滑动登录框](./HowToMake/logindemo/logindemo.md) 
+*  [登陆成功特效](./HowToMake/loginsuccess/loginsuccess.md) 
