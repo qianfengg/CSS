@@ -6,7 +6,7 @@
     但个人感觉还是很有意思的，新手可以理解为CSS就是化妆术~
 
 > CSS为主的Demo
-1. [动态滑动登录框(在线预览)](https://qianfengg.github.io/CSS/logindemo/index)
+*  [动态滑动登录框(在线预览)](https://qianfengg.github.io/CSS/logindemo/index)
 
 > 如何制作
-1. [动态滑动登录框](./HowToMake/logindemo/logindemo.md) 
+*  [动态滑动登录框](./HowToMake/logindemo/logindemo.md) 
