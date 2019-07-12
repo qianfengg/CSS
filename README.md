@@ -1,3 +1,12 @@
 # CSS
-CSS为主的Demo
-1. [登陆页面](https://qianfengg.github.io/CSS/logindemo/index)
+> CSS
+
+* 对于初学者来说是非常友善的，个人认为CSS不能算是一门编程语言，且也是我作为前端工程师相对比较弱的技能
+    (相对CSS，我的JS还有DOM还是比CSS稍微强一点的)
+    但个人感觉还是很有意思的，新手可以理解为CSS就是化妆术~
+
+> CSS为主的Demo
+1. [动态滑动登录框(在线预览)](https://qianfengg.github.io/CSS/logindemo/index)
+
+> 如何制作
+1. [动态滑动登录框](./HowToMake/logindemo/logindemo.md) 
