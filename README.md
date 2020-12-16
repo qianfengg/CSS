@@ -1,5 +1,5 @@
 # CSS
-> CSS
+> TIPS
 
 * 对于初学者来说是非常友善的，个人认为CSS不能算是一门编程语言，且也是我作为前端工程师相对比较弱的技能
     (相对CSS，我的JS还有DOM还是比CSS稍微强一点的)
@@ -8,7 +8,24 @@
     JS和HTML5的项目暂时并没有记录过程的打算
 * 分享一个霓虹大佬的项目[大佬的项目](https://github.com/yui540/Cowardly-Witch),
     [点击此处在线预览](https://yui540.graphics)  
-* [sass](https://sass.bootcss.com/)    
+* [sass](https://sass.bootcss.com/) 
+* 省略号相关问题
+    ```
+      div.one-line {
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+      }
+      div.n-line {
+        text-overflow: -o-ellipsis-lastline;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        line-clamp: 2;
+        -webkit-box-orient: vertical;
+      }
+    ```
 
 > CSS为主的Demo
 *  [动态滑动登录框(在线预览)](https://qianfengg.github.io/CSS/logindemo/index)
